@@ -1,0 +1,16 @@
+[
+    {
+        "FlightID": "ABC123",
+        "Origin": "Stockholm",
+        "Destination": "Gothenburg",
+        "DepartureTime": "16:00",
+        "ArrivalTime": "16:45"
+    },
+    {
+        "FlightID": "DEF345",
+        "Origin": "Gothenburg",
+        "Destination": "Stockholm",
+        "DepartureTime": "17:00",
+        "ArrivalTime": "17:45"
+    }
+]
