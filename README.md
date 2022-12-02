@@ -1,7 +1,7 @@
 # Flight-App-Nicholas-Izosimov
 Flight App:
 Display list of available flights and allows booking for those flights. This is an assignment application made for learning purposes
-
+</br>
 Running the app:
 Fork or clone the repo,
 Frontend:
